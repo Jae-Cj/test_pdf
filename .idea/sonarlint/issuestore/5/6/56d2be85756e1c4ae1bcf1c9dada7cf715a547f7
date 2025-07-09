@@ -1,0 +1,67 @@
+
+g	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ˆ•ç£ñ1
+h	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(ÊĞ¡Ÿşÿÿÿÿ8‰•ç£ñ1
+Q
+java:S3740g"/Provide the parametrized type for this generic.(õòãÊşÿÿÿÿ8‰•ç£ñ1
+L
+java:S3740i"/Provide the parametrized type for this generic.(†€š˜8‰•ç£ñ1
+Q
+java:S3740o"/Provide the parametrized type for this generic.(Ö÷ÚÔøÿÿÿÿ8‰•ç£ñ1
+e
+java:S1192{"HDefine a constant instead of duplicating this literal "colspan" 8 times.(­ŞıÊ8‰•ç£ñ1
+j
+java:S1192~"HDefine a constant instead of duplicating this literal "rowspan" 5 times.(”Õşşÿÿÿÿ8‰•ç£ñ1
+R
+java:S1066 "/Merge this if statement with the enclosing one.(”Õşşÿÿÿÿ8Š•ç£ñ1
+M
+java:S1066•"/Merge this if statement with the enclosing one.(„Ä»8Š•ç£ñ1
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«ì¥ûÿÿÿÿ8Š•ç£ñ1
+r	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ˆæÕúÿÿÿÿ8Š•ç£ñ1
+r	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şâ”×üÿÿÿÿ8Š•ç£ñ1
+r	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ºŠıÿÿÿÿ8Š•ç£ñ1
+m	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îˆ”Ç8Š•ç£ñ1
+n	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ÷í“8Š•ç£ñ1
+s	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çšíûÿÿÿÿ8Š•ç£ñ1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íââ8Š•ç£ñ1
+
+java:S4165G"kRemove this useless assignment; "rowSize_title" already holds the assigned value along all execution paths.(şâˆ£ÿÿÿÿÿ8à—ç£ñ1
+‰
+java:S4165H"gRemove this useless assignment; "sheetName" already holds the assigned value along all execution paths.(Ÿ¤ÜÛûÿÿÿÿ8à—ç£ñ1
+r	java:S1168"WRename this field "rowSize_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ß8à—ç£ñ1
+y	java:S116<"XRename this field "rowSize_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çêŠ’úÿÿÿÿ8à—ç£ñ1
+z	java:S116@"YRename this field "rowSize_header" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êµŞ¹ÿÿÿÿÿ8à—ç£ñ1
+
+java:S1450@"]Remove the "rowSize_header" field and declare it as a local variable in the relevant methods.(êµŞ¹ÿÿÿÿÿ8ã—ç£ñ1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ãûö®øÿÿÿÿ8å—ç£ñ1
+c
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(”âµÿÿÿÿÿÿ8ç—ç£ñ1
+L	java:S106("+Replace this use of System.out by a logger.(¢÷ãùÿÿÿÿ8è—ç£ñ1
+t
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(°éÄæùÿÿÿÿ8é—ç£ñ1
+]	java:S125T"<This block of commented-out lines of code should be removed.(ãêûÿÿÿÿ8ê—ç£ñ1
+`
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(ÃÆ·Àşÿÿÿÿ8ë—ç£ñ1
+Z
+java:S1155j">Use isEmpty() to check whether the collection is empty or not.(˜¦»8ì—ç£ñ1
+\
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.(ŒíÛ8î—ç£ñ1
+a
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(ÒİĞÄûÿÿÿÿ8ğ—ç£ñ1
+H	java:S106Â"+Replace this use of System.out by a logger.(áåô–8ò—ç£ñ1
+M	java:S106Ã"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ò—ç£ñ1
+p	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úşó³ûÿÿÿÿ8ò—ç£ñ1
+p	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ£Şÿÿÿÿÿ8ô—ç£ñ1
+p
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÔîÜ¬8õ—ç£ñ1
+
+java:S1130ä"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÊĞ¡Ÿşÿÿÿÿ8ú—ç£ñ1
+Q
+java:S1172ä".Remove this unused method parameter "dataArr".(ÊĞ¡Ÿşÿÿÿÿ8ú—ç£ñ1
+G	java:S106®"+Replace this use of System.err by a logger.(Õİój8ƒ˜ç£ñ1
+Q
+java:S1656G"/Remove or correct this useless self-assignment.(şâˆ£ÿÿÿÿÿ8„˜ç£ñ1
+Q
+java:S1656H"/Remove or correct this useless self-assignment.(Ÿ¤ÜÛûÿÿÿÿ8„˜ç£ñ1
+è
+java:S6541R"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 99 to 64, Complexity from 18 to 14, Nesting Level from 5 to 2, Number of Variables from 37 to 6.(°éÄæùÿÿÿÿ8…˜ç£ñ1

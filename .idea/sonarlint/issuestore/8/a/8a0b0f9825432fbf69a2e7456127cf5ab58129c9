@@ -1,0 +1,34 @@
+
+L
+java:S3740¸"/Provide the parametrized type for this generic.(ìA8óÚ¥ğ1
+M
+java:S3740¼"/Provide the parametrized type for this generic.(’¹¡â8óÚ¥ğ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8‚õÚ¥ğ1
+]	java:S125"<This block of commented-out lines of code should be removed.(«¶²™ÿÿÿÿÿ8²İò¥ğ1
+j
+java:S5361*"HReplace this call to "replaceAll()" by a call to the "replace()" method.(áœÇÓÿÿÿÿÿ8…õÚ¥ğ1
+j
+java:S53613"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ò‡Áøÿÿÿÿ8†õÚ¥ğ1
+j
+java:S53614"HReplace this call to "replaceAll()" by a call to the "replace()" method.(áŠ¡Øÿÿÿÿÿ8‡õÚ¥ğ1
+e
+java:S53615"HReplace this call to "replaceAll()" by a call to the "replace()" method.(…ÎÅ¦8‡õÚ¥ğ1
+j
+java:S53616"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ì«é™üÿÿÿÿ8ˆõÚ¥ğ1
+j
+java:S53617"HReplace this call to "replaceAll()" by a call to the "replace()" method.(±şÑÖùÿÿÿÿ8‰õÚ¥ğ1
+j
+java:S53618"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‹ÍŸ×ùÿÿÿÿ8‹õÚ¥ğ1
+e
+java:S53619"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¯±ô²8ŒõÚ¥ğ1
+e
+java:S53619"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¯±ô²8õÚ¥ğ1
+e
+java:S5361:"HReplace this call to "replaceAll()" by a call to the "replace()" method.(øíİ¯8õÚ¥ğ1
+j
+java:S5361;"HReplace this call to "replaceAll()" by a call to the "replace()" method.(§ï€ûÿÿÿÿ8õÚ¥ğ1
+]	java:S125Y"<This block of commented-out lines of code should be removed.(Á«¿Èúÿÿÿÿ8”õÚ¥ğ1
+X	java:S125Š"<This block of commented-out lines of code should be removed.(œœD8õÚ¥ğ1
+Y
+java:S1144h"<Remove this unused private "outputMdFormatForVerify" method.(«Úù8¥õÚ¥ğ1

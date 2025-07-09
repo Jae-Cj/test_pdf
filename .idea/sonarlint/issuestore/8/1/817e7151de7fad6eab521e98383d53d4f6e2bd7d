@@ -1,0 +1,40 @@
+
+¯
+java:S1192v"ŒDefine a constant instead of duplicating this literal "---------------------------------------------------------------------------" 3 times.(Öùá¡þÿÿÿÿ8×ýªìð1
+c
+java:S1854#"ARemove this useless assignment to local variable "imageElements".(«Åœ«þÿÿÿÿ8ºÿªìð1
+j
+java:S1854†"GRemove this useless assignment to local variable "textCoordinatesList".(Ù€‚´ÿÿÿÿÿ8ºÿªìð1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(òþÃ”øÿÿÿÿ8»ÿªìð1
+T
+java:S1481#"2Remove this unused "imageElements" local variable.(«Åœ«þÿÿÿÿ8½ÿªìð1
+]	java:S125*"<This block of commented-out lines of code should be removed.(þÞñóøÿÿÿÿ8½ÿªìð1
+X	java:S1251"<This block of commented-out lines of code should be removed.(†¨û¯8¾ÿªìð1
+]	java:S1254"<This block of commented-out lines of code should be removed.(²äÄÐøÿÿÿÿ8¾ÿªìð1
+]	java:S125>"<This block of commented-out lines of code should be removed.(úäÿéÿÿÿÿÿ8¿ÿªìð1
+]	java:S125N"<This block of commented-out lines of code should be removed.(ËôÜâüÿÿÿÿ8¿ÿªìð1
+]	java:S125Z"<This block of commented-out lines of code should be removed.(¶Ê‡‡ÿÿÿÿÿ8¿ÿªìð1
+L	java:S106v"+Replace this use of System.out by a logger.(Öùá¡þÿÿÿÿ8Àÿªìð1
+[
+java:S1481†"8Remove this unused "textCoordinatesList" local variable.(Ù€‚´ÿÿÿÿÿ8Áÿªìð1
+M	java:S106‰"+Replace this use of System.out by a logger.(Öùá¡þÿÿÿÿ8Áÿªìð1
+Y	java:S125‡"<This block of commented-out lines of code should be removed.(º—Ë®8Áÿªìð1
+M	java:S106"+Replace this use of System.out by a logger.(Öùá¡þÿÿÿÿ8Âÿªìð1
+M	java:S106–"+Replace this use of System.out by a logger.(ž¢÷ãùÿÿÿÿ8Âÿªìð1
+^	java:S125°"<This block of commented-out lines of code should be removed.(É»ã‰üÿÿÿÿ8Äÿªìð1
+M	java:S106Ç"+Replace this use of System.out by a logger.(ˆ°ùÚÿÿÿÿÿ8Åÿªìð1
+U
+java:S1135Æ"2Complete the task associated to this TODO comment.(ó¤îüÿÿÿÿ8Åÿªìð1
+M	java:S106Ê"+Replace this use of System.out by a logger.(ˆÔŸëýÿÿÿÿ8Åÿªìð1
+Y	java:S125è"<This block of commented-out lines of code should be removed.(áÈØŽ8Çÿªìð1
+^	java:S125ê"<This block of commented-out lines of code should be removed.(É»ã‰üÿÿÿÿ8„üÆìð1
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(Þ½½è8ó¿»íð1
+M	java:S106„"+Replace this use of System.out by a logger.(Ôìþìúÿÿÿÿ8ó¿»íð1
+U
+java:S1135ƒ"2Complete the task associated to this TODO comment.(ó¤îüÿÿÿÿ8ó¿»íð1
+G	java:S106‡"+Replace this use of System.out by a logger.(©Ý¿M8ó¿»íð1
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(®îêÿþÿÿÿÿ8õ¿»íð1
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(Ÿ¿à8ö¿»íð1
+^	java:S125Ï"<This block of commented-out lines of code should be removed.(®îêÿþÿÿÿÿ8÷¿»íð1
+Y	java:S125Õ"<This block of commented-out lines of code should be removed.(ƒì€°8÷¿»íð1

@@ -1,0 +1,13 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÅÙ®‚ï1
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÅÙ®‚ï1
+Q
+java:S3740&"/Provide the parametrized type for this generic.(÷Ûç‘ıÿÿÿÿ8ÅÙ®‚ï1
+L
+java:S3740'"/Provide the parametrized type for this generic.(ÍâÏÁ8ÅÙ®‚ï1
+Q
+java:S3740("/Provide the parametrized type for this generic.(Î¨Â¦ûÿÿÿÿ8ÅÙ®‚ï1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(íÎ—½8¤Î¯‚ï1
+G	java:S106)"+Replace this use of System.out by a logger.(ÁâÊï8ŒÚ®‚ï1
+L	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ŒÚ®‚ï1

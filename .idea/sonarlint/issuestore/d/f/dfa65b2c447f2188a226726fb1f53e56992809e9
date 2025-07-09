@@ -1,0 +1,16 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(”§µš
+@	java:S106"+Replace this use of System.out by a logger.(·é¥Ú
+U
+java:S1854;":Remove this useless assignment to local variable "output".(õŠØÀÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ºç
+F
+java:S1481;"+Remove this unused "output" local variable.(õŠØÀÿÿÿÿÿ
+X	java:S125G"<This block of commented-out lines of code should be removed.(õîÚ8ïÅí¡2
+^
+java:S1075I"ARefactor your code to get this URI from a customizable parameter.(îå·ß8‚Çí¡2
+c
+java:S1075J"ARefactor your code to get this URI from a customizable parameter.(ÈËß÷şÿÿÿÿ8ƒÇí¡2
+E	java:S106T"+Replace this use of System.out by a logger.(¯°‚¦ıÿÿÿÿ
+L	java:S106["+Replace this use of System.out by a logger.(¢÷ãùÿÿÿÿ8ø»Ú‚î1

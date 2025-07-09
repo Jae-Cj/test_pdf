@@ -1,0 +1,17 @@
+
+e
+java:S2095H"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(µµúú8ÕÌÖ³ë1
+G	java:S106#"+Replace this use of System.out by a logger.(Á·êÀ8ÙÌÖ³ë1
+L	java:S106%"+Replace this use of System.out by a logger.(óÓß¸øÿÿÿÿ8ÙÌÖ³ë1
+G	java:S1060"+Replace this use of System.out by a logger.(§ˆ§ã8ÚÌÖ³ë1
+G	java:S106B"+Replace this use of System.out by a logger.(êöÁ8ßÌÖ³ë1
+L	java:S106L"+Replace this use of System.out by a logger.(«üèœúÿÿÿÿ8ãÌÖ³ë1
+G	java:S106S"+Replace this use of System.out by a logger.(¸‘ä˜8ãÌÖ³ë1
+L	java:S106T"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ãÌÖ³ë1
+L	java:S106c"+Replace this use of System.out by a logger.(ŠŒ¸Ûúÿÿÿÿ8äÌÖ³ë1
+^
+java:S3457o"AFormat specifiers should be used instead of string concatenation.(ÔÊ¿À8‚äŒ´ë1
+G	java:S106y"+Replace this use of System.out by a logger.(Êô‰æ8ƒäŒ´ë1
+E	java:S108")Either remove or fill this block of code.(ŸäÁ‚8ï’´ë1
+L
+java:S2093<"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ëÌÖ³ë1

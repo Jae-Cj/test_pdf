@@ -1,0 +1,16 @@
+
+e
+java:S2095T"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(º ‘8Šèîþî1
+R
+java:S2589"7Remove this expression which always evaluates to "true"(­¸ €üÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(‚–äýýÿÿÿÿ
+>	java:S108?")Either remove or fill this block of code.(ŸäÁ‚
+E
+java:S2093+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+^
+java:S1075M"ARefactor your code to get this URI from a customizable parameter.(¬ øØ8³ˆîþî1
+]	java:S125L"<This block of commented-out lines of code should be removed.(“´çŽúÿÿÿÿ8ÄÝìþî1
+V	java:S125O"<This block of commented-out lines of code should be removed.(œï¥ûÿÿÿÿ
+K
+java:S2209P"5Change this instance-reference to a static reference.(Š†
+E	java:S106R"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ

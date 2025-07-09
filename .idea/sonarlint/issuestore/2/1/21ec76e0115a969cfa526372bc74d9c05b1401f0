@@ -1,0 +1,12 @@
+
+e
+java:S2095"HUse try-with-resources or close this "PDDocument" in a "finally" clause.(ôºË¦8•‘ä°ë1
+T
+java:S1854"7Remove this useless assignment to local variable "doc".(ôºË¦8ŞÄØ°ë1
+\
+java:S1854"?Remove this useless assignment to local variable "pdfRenderer".(½®ÛØ8ßÄØ°ë1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(•åÃ§8‘°£±ë1
+M
+java:S1481"0Remove this unused "pdfRenderer" local variable.(½®ÛØ8òÄØ°ë1
+G	java:S106 "+Replace this use of System.out by a logger.(ÎšôÏ8òÄØ°ë1

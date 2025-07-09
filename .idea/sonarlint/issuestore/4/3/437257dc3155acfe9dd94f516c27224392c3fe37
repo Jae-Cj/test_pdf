@@ -1,0 +1,15 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œãğ½ò1
+b
+java:S2259"@A "NullPointerException" could be thrown; "wb" is nullable here.(²»Ø¦ùÿÿÿÿ8ûãğ½ò1
+f
+java:S1854"DRemove this useless assignment to local variable "htmlToExcelUtils".(¢Óé›ÿÿÿÿÿ8Ãäğ½ò1
+W
+java:S1481"5Remove this unused "htmlToExcelUtils" local variable.(¢Óé›ÿÿÿÿÿ8ôäğ½ò1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ãûö®øÿÿÿÿ8õäğ½ò1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(”âµÿÿÿÿÿÿ8”åğ½ò1
+L	java:S106 "+Replace this use of System.out by a logger.(¢÷ãùÿÿÿÿ8åğ½ò1
+N
+java:S1172$",Remove this unused method parameter "input".(óíô§ÿÿÿÿÿ8¬åğ½ò1

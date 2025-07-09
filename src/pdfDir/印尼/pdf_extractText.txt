@@ -1,0 +1,2544 @@
+AIP INDONESIA (VOL I)                                                               ENR 3.1 - 1 
+ENR 3 ATS ROUTES 
+  3.1 Domestic ATS Routes  
+ 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W11      
+         
+ 
+“BND” VOR/DME         
+065255.5S     
+FL 600 
+1073044.4E 305 71.8 
+9 000 ft  
+ Jakarta FIR, 
+ “CKG” VOR/DME    Jakarta APP, 
+061116.4S Jakarta ACC 
+1063147.8E (See ENR 2.1) 
+310 70.6   
+  
+RIMTI For south bound 
+052525S Flight, after “TKG” 
+1053747E VOR joint W19. 
+290 27.8 
+ 
+“TKG” VOR/DME  FL 600 
+051537.2S 7 000 ft   
+1051138.9E 310 
+51.3 
+ 131 
+ALADO Palembang APP, 
+044150S Jakarta ACC 
+1043251E 312 (See ENR 2.1) 
+195.0 
+ 132 
+NONAP 
+A, C 10 
+023010S 
+1020826E 312 FL 600 
+151.7 
+ 133 FL 145 
+Pekanbaru APP, 
+“MKB” VOR/DME  
+Jakarta ACC 
+004713.2S 
+(See ENR 2.1) 
+1001641.6E 339 FL 600 
+143.2  
+ 159 11 500 ft  
+NOKEL 
+012712N 
+0992536E 338 FL 600 
+132.0 
+ 159 9 500 ft  
+“MDN" VOR/DME  
+033016.4N Medan APP, 
+0983627.9E 328 Jakarta ACC 
+ 124.0 
+149 (See ENR 2.1) 
+DUAMO   FL 600  
+051558N 10 000 ft  
+0973041E 278 
+126.0 
+ 098 
+“BAC" VOR/DME  
+053121.5N 
+        
+0952520.3E 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 2                                                                             AIP INDONESIA (VOL I)                                                                
+Direction of  
+ks  
+Route designator Track Lateral cruising  Remar
+DIST Upper Airspace 
+Significant points MAG limits levels Controlling  
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W12      
+ 
+        
+ 
+“CKG” VOR/DME 
+061116.4S 
+1063147.8E 
+73.0 Jakarta FIR, 
+ 
+DOLTA Jakarta APP, 
+FL 600 
+Jakarta ACC 
+050734S 6 000 ft  
+(See ENR 2.1) 
+1055530E 330 
+83.0    
+  
+GUSKO 
+035508S 
+Palembang APP, 
+1051418E 
+71.4 Jakarta ACC 
+ 
+“PLB" VOR/DME  (See ENR 2.1) 
+025242.9S   
+1043911.4E 320 
+95.8 
+ Jambi APP, 
+141 
+"JMB" VOR/DME  Palembang APP, 
+FL 600 
+Jakarta ACC 
+013809.6S 10 000 ft  
+(See ENR 2.1 and 
+1033842.2E 
+42.1 A, C 10 WIJJ AD 2.18) 
+ 
+KUALA 314 
+010838S 134 
+1030836E 
+67.9 
+ 
+“AD” NDB  
+002056.9S Pekanbaru APP, 
+1022008.6E 311 
+70.9 Jakarta ACC 
+ 131 
+(See ENR 2.1) 
+"PKU" VOR/DME  
+002532.1N 
+1012629.8E 317 FL 600 
+123.6 
+ 137 9 500 ft  
+MEDIA 
+015642N 
+Medan APP, 
+1000244E 317 
+127.0 Jakarta ACC 
+ 138 
+(See ENR 2.1) 
+“MDN" VOR/DME  
+033016.4N 
+0983627.9E 
+        
+ 
+CONT 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 126 
+         23 FEB 23 
+AIP INDONESIA (VOL I)                                                               ENR 3.1 - 3 
+Direction of  
+eral cruising  Remarks  
+Route designator Track Lat
+DIST Upper Airspace 
+limits levels Controlling  
+Significant points MAG 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT      
+W12 
+         
+ 
+"MDN" VOR/DME 
+033016.4N  
+0983627.9E 
+100.7 Medan APP, 
+ 
+Banda Aceh APP, 
+JILAT 303 FL 600 
+A, C 10  Jakarta ACC 
+042432N 123 11 500 ft  
+(See ENR 2.1 and 
+0971123E 
+125.0 WITT AD 2.18) 
+ 
+“BAC” VOR/DME 
+053121.5N 
+0952520.3E 
+        
+ 
+ 
+W12E 
+ 
+        
+ 
+“PLB" VOR/DME  
+025242.9S 
+1043911.4E 
+68.0 
+ 
+BORAS 
+130   
+033638S 
+Palembang APP, 
+1053116E 
+40.0 Jakarta ACC 
+ 
+(See ENR 2.1) 
+BIDAK FL 600 
+A , C 10 
+040229S 6 000 ft   
+1060155E 
+56.4 
+ 
+BIKAL 152 
+ 
+045244S 332 
+Jakarta APP, 
+1062806E  
+73.0 Jakarta ACC 
+ 
+(See ENR 2.1) 
+“DKI" VOR/DME  
+055740.3S 
+1070207.9E 
+        
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                     A AIRIRAACC A AIPIP A AMMDDTT 1 11077  
+      1 192 M AAUYG 2 221  
+
+AIP INDONESIA (VOL I)                                                               ENR 3.1 - 5 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace ling  
+Significant points MAG limits levels Control
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W14      
+ 
+        
+ 
+“DKI" VOR/DME 
+055740.3S 
+1070207.9E 
+62.0 
+ Jakarta FIR, 
+ABASA Jakarta APP, 
+045652S Jakarta ACC 
+1071540E  (See ENR 2.1) 
+012 75.0 
+ 
+ALTAR 
+034318S 
+1073200E FL 600 
+61.0 A, C 10   
+  6 000 ft  
+“TPN" VOR/DME 
+Palembang APP, 
+024328.5S 
+Pontianak APP, 
+1074511.7E 
+129.7 Jakarta FIC, 
+ 
+ Jakarta ACC 
+OLVES 
+031 (See ENR 2.1) 
+005231S 
+1085314E 
+55.8 
+ 
+"PNK" VOR/DME  
+000445.0S 
+1092229.8E         
+W15 
+ 
+        
+ 
+“DKI" VOR/DME  
+055740.3S  
+1070207.9E 
+55.0 
+ 
+ISNED 054 
+052558S 234 Jakarta FIR, 
+1074720E FL 600 Jakarta APP, 
+75.0 A, C 10  
+  6 000 ft  Jakarta ACC 
+EGUKO (See ENR 2.1) 
+044245S 
+1084853E 064 
+104.1 
+ 244 
+TAVIP 
+035752S  
+1102300E 
+       
+ 
+CONT 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 6                                                                             AIP INDONESIA (VOL I)  
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace trolling  
+Significant points MAG limits levels Con
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W15 
+         
+ 
+TAVIP 
+035752S  
+Ujung Pandang  
+1102300E 
+128.0 
+ FIR, 
+LAMUD Pangkalan Bun 
+064 
+APP, 
+030225S 244 
+Ujung Pandang 
+1121831E FL 600 
+109.4 ACC 
+ 4 000 ft  
+(See ENR 2.1) 
+“PKY” VOR/DME 
+021436.6S Banjarmasin APP, 
+1135658.7E 071 Ujung Pandang 
+88.2 
+ 251 ACC 
+HAMOL (See ENR 2.1)  
+014614S 
+1152023E 072 
+101.1  
+ 252 10  Balikpapan APP, 
+"BPN" VOR/DME A, C 
+FL 600 Ujung Pandang 
+011444.7S 6 500 ft  ACC 
+1165625.1E 063 (See ENR 2.1) 
+172.2 
+ 244 
+LADOP 
+000142N Palu APP, 
+1193041E Gorontalo APP, 
+FL 600 
+ 236.2 Ujung Pandang 
+ 12 000 ft  
+ACC 
+GOTSA 077 
+(See ENR 2.1) 
+257 
+005620N Manado APP, 
+1232007E FL 600 Ujung Pandang 
+100.0 
+ 8 500 ft  ACC 
+“MWB” VOR/DME  (See ENR 2.1) 
+011923.7N 
+1245717.6E 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 112 
+         27 JAN 22 
+AIP INDONESIA (VOL I)  ENR 3.1 - 7                                                                
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace ntrolling  
+Significant points MAG limits levels Co
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W15N      
+ 
+        
+ 
+“PKY” VOR/DME 
+021436.6S  
+Ujung Pandang 
+1135658.7E 258 
+138.8 FIR, 
+ 078 
+Pangkalan Bun 
+“PKN” VOR/DME FL 600 
+A, C 10  APP, 
+024306.5S 4 000 ft  
+Ujung Pandang 
+1114115.8E 226 
+108.0 ACC 
+ 046 
+(See ENR 2.1) 
+TAVIP 
+035752S  
+1102300E 
+       
+W16 
+ 
+        
+ 
+“SBR” VOR/DME 
+072226.2S 
+1124616.4E 
+302 82.4 
+ Ujung Pandang  
+LASEM FIR, 
+  
+063706S Surabaya APP, 
+1113654E Semarang APP, 
+301 36.3 
+ Ujung Pandang 
+CUCUT ACC 
+061742S  (See WAHS AD 
+1110600E FL 600 2.18 and ENR 2.1) 
+42.8 A, C 10 
+ 7 000 ft  
+MADIN 
+061754S 
+1102300E 269 
+63.1  Jakarta FIR 
+ 089 
+ 
+KIDET 
+Jakarta APP  
+061803S 
+Jakarta ACC 
+1091937E 
+59.0 (See ENR 2.1) 
+ 
+"IMU" VOR/DME  
+061815.1S 
+1082020.4E 
+        
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AAIIRRAACC  AAIIPP  AAMMDDTT  112037  
+       1023  ANUOGV  2212  
+ENR 3.1 - 8                                                                             AIP INDONESIA (VOL I)  
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W16S      
+ 
+        
+ 
+KIDET 
+061803S 
+ 
+1091937E 
+242 51.6  
+ 
+Jakarta FIR, 
+"CA" NDB FL 600 
+A, C 10 Jakarta ACC 
+064152.7S 12 000 ft   
+ (See ENR 2.1) 
+1083335.1E 259 
+63.5 
+ 079 
+"BND" VOR/DME  
+065255.5S 
+1073044.4E 
+        
+W17 
+ 
+        
+ 
+"HLM" VOR/DME  
+061619.0S  
+1065313.1E 117 
+38.0 
+ 297 
+"PW" NDB  
+063400.0S Jakarta FIR, 
+1072700.0E 168 FL 600 Jakarta APP, 
+19.2 
+ 348 10 000 ft  Jakarta ACC 
+"BND" VOR/DME  (See ENR 2.1) 
+10 
+065255.5S 
+1073044.4E 116 
+101.6 A, C  
+ 296 
+"CLP" VOR/DME  
+073840.8S 
+1090208.9E 
+59.0 
+ Jakarta FIR, 
+LILPO 096 FL 600 Yogyakarta APP, 
+074604S 276 5 000 ft  Jakarta ACC 
+1100106E (See ENR 2.1) 
+17.4 8 
+ 
+"JOG" VOR/DME  
+074801.2S 
+1101833.6E 
+        
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 117 
+       19 MAY 22 
+AIP INDONESIA (VOL I)                                                               ENR 3.1 - 9 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace ling  
+Significant points MAG limits levels Control
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W17S      
+ 
+        
+ 
+"CLP" VOR/DME 
+073840.8S  
+1090208.9E 333  
+63.3 
+ 153 
+Jakarta FIR, 
+"CA" NDB  FL 600 
+A, C 10 Jakarta ACC 
+064152.7S 7 000 ft  
+(See ENR 2.1) 
+1083335.1E  
+330 27.0  
+ 
+"IMU" VOR/DME  
+061815.1S 
+1082020.4E 
+        
+ 
+ 
+W17N 
+ 
+        
+ 
+"JOG" VOR/DME  
+074801.2S  
+1101833.6E 056 FL 600 
+31.2 5 
+ 236 10 500 ft  
+Ujung Pandang 
+"SO" NDB 
+FIR, 
+073043 .7S 
+Yogyakarta APP, 
+1104447.6E 360 
+18.8 8  Surabaya APP, 
+ 180 
+Ujung Pandang 
+PURWO 
+ACC 
+071148S A, C 
+(See ENR 2.1) 
+1104508E 300 
+25.9 FL 600 
+ 120 
+"ANY" VOR/DME  5 500 ft  
+065828.9S 10 Jakarta FIR, 
+1102248.4E Semarang APP, 
+ 302 74.7   Jakarta ACC 
+ (See ENR 2.1 and 
+KIDET  WAHS AD 2.18) 
+061803S 
+1091937E 
+        
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 10                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+Route designator Track Lateral Cruising Remarks 
+DIST Upper Airspace ling  
+Significant points MAG limits  levels Control
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W18           
+   
+“DKI” VOR/DME 
+055740.3S   
+1070207.9E 072 
+ 55.0 
+251 
+PAPMU 
+Jakarta FIR, 
+054042S 
+Jakarta ACC, 
+1075439E 071 
+71.8 Jakarta APP 
+ 251 
+(See ENR 2.1) 
+AKSOX 
+ 
+051748S 
+1090254E 072 
+86.1 
+ 252 
+SPIKO 
+045236S 
+1102524E 072 FL 600  
+50.7 
+ 251 6 000 ft  
+SUMDI  
+043702S 
+1113147E 
+121.0 A, C 10 
+ 
+DUNIA Ujung Pandang 
+035800S FIR, 
+1130830E 071 
+Banjarmasin APP, 
+ 251 36.9 
+Ujung Pandang 
+DOSDO ACC 
+034612S (See ENR 2.1) 
+1134330E  63.6 
+ 
+“BDM” VOR/DME   
+032612.5S 
+1144353.4E  044 
+ 94.2 
+225 
+FL 600  
+TUTKU 
+7 500 ft  
+021923S Balikpapan APP, 
+1155037E  045 Ujung Pandang 
+92.1 
+ 225 ACC 
+“BPN” VOR/DME      (See ENR 2.1) 
+011444.7S    
+1165625.1E  
+     
+ 
+CONT 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 115 
+        24 MAR 22 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 11 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace lling  
+Significant points MAG limits levels Contro
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT      
+W18 
+         
+ 
+“BPN” VOR/DME 
+011444.7S   Balikpapan APP, 
+1165625.1E 007 Ujung Pandang 
+100.0 
+ 188 ACC 
+MABOT (See ENR 2.1) 
+002450N 
+FL 600 
+1170956E A, B 10 
+112.0 6 000 ft  
+ Tarakan APP, 
+ SOSVO Ujung Pandang  
+008 
+021621N  ACC 
+188 
+1172504E  (See ENR 2.1) 
+ 63.5  
+  
+   
+“TRK” VOR/DME 
+031932.2N   
+1173341.9E       
+W19   
+       
+ 
+“DKI” VOR/DME         
+055740.3S   
+1070207.9E  175 17.0 
+Jakarta FIR, 
+MAGIG   Jakarta APP, 
+054038S  Jakarta ACC 
+1070056E  FL 600 (See ENR 2.1) 
+117 54.1 
+ 6 000 ft 
+BIDOV 
+A, C 10 
+051537S 
+1061248E  
+090 61.0 
+ 
+“TKG” VOR/DME Jakarta ACC 
+051537.2S   (See ENR 2.1) 
+1051138.9E  295 FL 600 
+47.7 
+115 8 500 ft  
+TOLIT 
+045452S     
+1042831E 
+    
+ 
+CONT 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 112 
+         27 JAN 22 
+ENR 3.1 - 12                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+ 
+Route designator Track Lateral cruising  Remarks 
+DIST Upper Airspace ontrolling  
+Significant points MAG limits levels C
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W19 
+         
+ 
+TOLIT 
+045452S  
+1042831E 296 FL 600 
+142.3 
+ 116 11 500 ft  Jakarta FIR, 
+“BKL" VOR/DME  Palembang APP, 
+035153.1S Jakarta ACC 
+1022034.3E 318 (See ENR 2.1) 
+159.1 
+ 138 
+LEBEG 
+015313S 
+1003404E 345 FL 600 
+67.9 A, C 10  
+ 165 8 000 ft  
+Pekanbaru APP, 
+“MKB” VOR/DME  
+Jakarta ACC 
+004713.2S 
+(See ENR 2.1) 
+1001641.6E 
+200.3 
+ 
+ELDEL 323 
+015220N 143 
+Medan APP, 
+0981442E FL 600 
+276.0 Jakarta ACC 
+ 12 500 ft  
+"BAC" VOR/DME (See ENR 2.1) 
+053121.5N 
+0952520.3E 
+        
+ 
+ 
+W21 
+ 
+        
+ 
+“MKB” VOR/DME  
+004713.2S 
+1001641.6E 165 FL 600  
+67.9 
+ 345 7 500 ft  
+LEBEG Jakarta FIR, 
+015313S Pekanbaru APP, 
+A, C 10  
+1003404E Jakarta ACC 
+ 105 FL 600 (See ENR 2.1) 
+102.4 
+ 284 10 500 ft  
+  
+ISKUT  
+021848S 
+1021309E 
+        
+ 
+CONT 
+ 
+Directorate General of Civil Aviation                      AIIRAC  AIIP  AMDT  1027  
+       1223  AMUAGR  213   
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 13 
+ 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace ntrolling  
+Significant points MAG limits levels Co
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W21 
+         
+ 
+ISKUT  
+021848S  
+1021309E 103 
+ 150.0 
+283 Jakarta FIR, 
+"PLB" VOR/DME  Palembang APP, 
+025242.9S Jakarta ACC 
+1043911.4E FL 600 (See ENR 2.1) 
+ 83.0  
+6 000 ft  
+TERKA 167 
+041402S 347 
+1045737E Jakarta ACC 
+62.9 
+ A, C 10 
+(See ENR 2.1) 
+“TKG” VOR/DME  
+051537.2S 
+1051138.9E FL 600 
+144 100.8 
+ 9 000 ft  
+Jakarta APP, 
+OTBIN 
+  Jakarta ACC 
+063746S 
+(See ENR 2.1) 
+1061050E FL 600 
+100 80.9 
+ FL 130 
+“BND” VOR/DME 
+065255.5S 
+1073044.4E 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIIRAC  AIIP  AMDT  11207  
+       0243  NMOAVR  213   
+ENR 3.1 - 14                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of 
+Remarks 
+Route designator Track Lateral cruising 
+DIST Upper Airspace Controlling 
+Significant points MAG limits levels 
+(NM) Lower classification unit 
+Coordinates (°) (NM) 
+odd even Frequency 
+1 2 3 4 5 6 
+         
+W22 
+ 
+        
+ 
+“MKB” VOR/DME  
+004713.2S  
+1001641.6E 065 
+26.1 
+ 245 
+OSNIS FL 600 
+003607S 8 000 ft  
+1004019E 055 
+56.7 
+ 235 Jakarta FIR, 
+UGIGI Pekanbaru APP, 
+000310S Jakarta ACC 
+1012629E 360 (See ENR 2.1) 
+28.6 A, C 10  
+ 180 
+"PKU" VOR/DME  
+002532.1N 
+1012629.8E 081 FL 600 
+55.4 
+ 261 6 000 ft  
+TUSNU 
+003403N 
+Tanjungpinang 
+1022109E 081 
+131.5 
+ APP 
+261 
+“TPG" VOR/DME (See ENR 2.1) 
+005412.8N  
+1043052.4E        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 15 
+Direction of  
+Route designator Track  Upper Lateral cruising Remarks  
+DIST Airspace lling  
+Significant points MAG Lower  Limits levels Contro
+(NM) Classification unit 
+Coordinates (°)  (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W23        
+ 
+    
+“BKL” VOR/DME  
+035153.1S   
+1022034.3E  067 FL 600 
+150.6 
+247 8 000 ft  
+“PLB” VOR/DME 
+025242.9S 
+1043911.4E 49.0 
+ 
+Jakarta FIR, 
+TODAK 064 FL 600 Palembang APP, 
+023119S 244 6 000 ft  Jakarta ACC 
+1052318E  (See ENR 2.1) 
+ 50.0 
+“PKP” VOR/DME 
+021001.9S A,C 10 
+1060831.5E 
+ 87.8 
+GUKNO 
+012203S 
+1072210E 057 FL 600 
+81.7 
+237 4 000ft  Pontianak APP, 
+UNTEP Jakarta FIC, 
+003754S Jakarta ACC 
+1083054E (See ENR 2.1) 
+61.3 
+“PNK” VOR/DME 
+000445.0S    
+1092229.8E      
+ 
+W24    
+ 
+      
+"PLB" VOR/DME  
+025242.9S   
+1043911.4E 
+110.1 
+ Jakarta FIR, 
+NIPES   358 FL 600 Palembang APP, 
+ A, C 10 
+010208S 178 6 000 ft  Jakarta ACC 
+1043538E (See ENR 2.1) 
+33.0 
+ 
+"NE" NDB  
+002858.8S    
+1043433.6E 
+     
+ 
+CONT 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 16                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+marks  
+Route designator Track Lateral cruising  Re
+DIST Upper Airspace 
+Significant points MAG limits levels Controlling  
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W24. 
+         
+ 
+"NE" NDB  
+002858.8S  
+ng 
+1043433.6E 357 FL 600  Tanjungpina
+82.9 A, C 10 APP 
+ 177 6 000 ft  
+"TPG" VOR/DME (See ENR 2.1) 
+005412.8N  
+1043052.4E 
+       
+ 
+ 
+W25 
+ 
+        
+ 
+“MKB” VOR/DME 
+004713.2S  
+Jakarta FIR, 
+1001641.6E 
+0 Pekanbaru APP, 
+ 116 FL 60
+141.0 
+10 500 ft  Jakarta ACC 
+ 296 
+PASOL (See ENR 2.1) 
+014930S 
+1022306E 115 150.0 
+ 294 
+"PLB" VOR/DME  
+025242.9S 
+1043911.4E A, C 10  
+82.0 
+ 
+Palembang APP, 
+IBORU FL 600 
+Jakarta ACC 
+024845S 6 000 ft  
+(See ENR 2.1) 
+1060103E 087 
+14.0 
+ 267 
+ LIMLU 
+024805S 
+1061501E 
+90.3 
+ 
+"TPN" VOR/DME  
+024328.5S 
+1074511.7E 
+        
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 17 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W26      
+ 
+        
+ 
+"TPG" VOR/DME  
+005412.8N  
+Tanjungpinang 
+1043052.4E 152 
+61.0 APP 
+ 332 
+(See ENR 2.1) 
+KIRDA 
+000009N 
+1045934E 152 
+146.8 
+ 331 
+"PKP" VOR/DME  
+021001.9S 
+1060831.5E 170 FL 600 
+88.3 A, C 10  
+ 350 6 000 ft  Jakarta FIR, 
+BOSLO Palembang APP, 
+033730S Jakarta ACC 
+1062330E 169 (See ENR 2.1) 
+75.1 
+ 349 
+BUNIK 
+045142S 
+1063724E 159 
+70.1 
+ 339 
+"DKI" VOR/DME  
+055740.3S 
+1070207.9E 
+        
+ 
+ 
+W26E 
+ 
+        
+ 
+"DKI" VOR/DME  
+055740.3S 
+ 
+1070207.9S 
+012 137.0  Jakarta FIR, 
+ 
+Jakarta APP, 
+ ALTAR FL 600 
+A, C 10 Palembang APP, 
+034318S 6 000 ft  
+1073200E  Jakarta ACC 
+317 124.9  
+ (See ENR 2.1) 
+"PKP" VOR/DME  
+021001.9S 
+1060831.5E 
+        
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 18                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W31       
+ 
+        
+ 
+“SBR” VOR/DME  
+072226.2S  
+1124616.4E 026 Ujung Pandang 
+75.4 
+ 206 FIR, 
+RAMPY Surabaya APP, 
+061501S Ujung Pandang 
+1132046E 025 ACC, 
+86.0  
+ 205 (See ENR 2.1) 
+IKAPI FL 600 
+A, C 10 
+045722S 4 000 ft  
+1135837E 026 
+101.4 Banjarmasin 
+ 206 
+APP, 
+"BDM" VOR/DME 
+Ujung Pandang 
+032612.5S  
+ACC 
+1144353.4E 326  
+85.3 (See ENR 2.1) 
+ 146 
+"PKY" VOR/DME  
+021436.6S 
+1135658.7E 
+        
+ 
+ 
+W31W 
+ 
+        
+ 
+IKAPI 
+045722S 
+1135837E 
+228 83.6 
+ 
+ RITBO Ujung Pandang 
+055238S FIR, 
+1125533E FL 600 Surabaya APP, 
+184 15.0 A, C 10   
+ 6 000 ft  Ujung Pandang 
+ ROPIA  ACC 
+060739S (See ENR 2.1) 
+1125414E 
+185 74.9 
+ 
+“SBR” VOR/DME  
+072226.2S 
+1124616.4E 
+        
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 19 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace trolling  
+Significant points MAG limits levels Con
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W32      
+ 
+        
+ 
+“SBR” VOR/DME  
+072226.2S  
+1124616.4E 071 76.2 
+ 251 
+PEDSO 
+065825S 
+1135905E Ujung Pandang 
+75.0 
+ FIR, 
+SUSIL Surabaya APP, 
+063406S Ujung Pandang 
+1151027E 070 73.0 FL 600 ACC 
+ 250  6 000 ft  (See ENR 2.1) 
+DASTY  
+061026S 
+1161950E 
+55.0 
+ 
+ENDOG  
+055237S 
+1171205E 069 
+147.8 
+ 249 
+"MKS" DVOR/DME  
+A, C 10  Ujung Pandang 
+050216.0S 
+APP, 
+1193134.2E 
+150.0 Ujung Pandang 
+ 
+ACC 
+VENRU 039 
+(See ENR 2.1) 
+030559S 219 
+1210705E FL 600  
+53.0 
+ 10 000 ft  
+DIOLA  
+022454S 
+1214047E 041 Manado APP, 
+120.9 
+ 221 Ujung Pandang 
+ENTEG  FIC, 
+005312S Ujung Pandang 
+1230000E 041 ACC 
+76.7 
+ 222 (See ENR 2.1) 
+LUANG  FL 600  
+000420N 8 000 ft  Manado APP, 
+1235055E 042 Ujung Pandang 
+100.0 
+ 222 ACC 
+“MWB” VOR/DME (See ENR 2.1) 
+011923.7N     
+1245717.6E 
+    
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 112 
+         27 JAN 22 
+
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 21 
+Direction of  
+ateral cruising  Remarks  
+Route designator Track L
+DIST Upper Airspace 
+limits levels Controlling  
+Significant points MAG 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT      
+W33 
+         
+ 
+“KPG” VOR/DME  
+101000.3S  Kupang APP, 
+1234130.5E 040 FL 600 Ujung Pandang 
+127.5 
+ 220 9 500 ft  ACC 
+MUBRA  (See ENR 2.1) 
+A, C 10  
+083337S 
+1250629E 086 FL 600 
+25.0 Dili APP 
+ 266 7 500ft  
+“DIL” VOR   
+083236.0S 
+1253142.0E 
+        
+ 
+ 
+W34 
+ 
+        
+ 
+“SBR” VOR/DME  
+072226.2S  
+1124616.4E 
+97.4 Surabaya APP, 
+ 
+Bali APP, 
+ENTAS 101 
+Ujung Pandang 
+074247S 281 
+ACC 
+1142213E FL 600 
+80.0 A, C 10  (See ENR 2.1) 
+ 4 000 ft  
+AGUNG  
+075929S Bali APP, 
+1154104E  141 Ujung Pandang 
+59.1 
+ 321 ACC 
+“LMB” VOR/DME  (See ENR 2.1) 
+084620.4S  
+1161738.6E 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 22                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+ 
+Route designator Track Lateral cruising  Remarks 
+DIST Upper Airspace ontrolling  
+Significant points MAG limits levels C
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W35      
+ 
+        
+ 
+“PNK” VOR/DME  
+000445.0S  
+1092229.8E 121 
+93.9 Jakarta FIR, 
+ 301 
+Pontianak APP, 
+TEPEV  
+Jakarta FIC, 
+005430S 
+Jakarta ACC 
+1104212E 122 
+62.9 (See ENR 2.1)  
+ 302 
+ENPIN  
+012805S Ujung Pandang 
+1113525E 121 FL 600  FIR, 
+222.3 
+ 301 6 500 ft  Banjarmasin APP, 
+“BDM” VOR/DME  Ujung Pandang  
+032612.5S FIC, 
+1144353.4E 102 Ujung Pandang 
+ 154.6 
+281 ACC 
+GURNI  (See ENR 2.1) 
+A, C 10  
+035848S 
+1171508E 114 
+150.2 Ujung Pandang 
+ 294 
+APP, 
+“MKS” DVOR/DME 
+Ujung Pandang 
+050216.0S 
+ACC 
+1193134.2E 143 FL 600 
+150.0 (See ENR 2.1) 
+ 322 11 500 ft  
+NETTO  
+070258S 
+1210145E 142 Kupang APP, 
+119.3 
+ 322 Ujung Pandang  
+“MOF” VOR/DME FL 600  FIC, 
+083827.9S 7 000 ft  Ujung Pandang 
+1221422.7E 136 ACC 
+125.4 
+ 315 (See ENR 2.1) 
+“KPG” VOR/DME  
+101000.3S 
+1234130.5E 
+        
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 115 
+       24 MAR 22 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 23 
+Direction of  
+rks  
+Route designator Track Lateral cruising  Rema
+DIST Upper Airspace 
+Significant points MAG limits levels Controlling  
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W36      
+ 
+         
+OSRUT 
+003151S  
+1121708E 
+ 155.0 Ujung Pandang  
+ ELANG 098 FL 600 FIR, 
+005536S 278 8 500 ft  Balikpapan APP, 
+1145003E Ujung Pandang 
+ 128.0 
+FIC, 
+“BPN” VOR/DME  Ujung Pandang 
+011444.7S ACC, 
+1165625.1E 082 (See ENR 2.1)  
+ 96.0 
+262 
+DOMKI  
+010130S 
+1183121E 085 FL 600 
+ 43.0 
+265 9 500 ft  Palu APP,  
+EMSIV Ujung Pandang 
+005759S ACC 
+1191412E 083 (See ENR 2.1) 
+ 39.9 
+263 
+“PAL” VOR/DME  
+005306.0S 
+1195341.0E 091 
+A, C 10  Palu APP, 
+ 29.0 
+271 Gorontalo APP, 
+RIKMU  FL 600 
+Ujung Pandang 
+005337S FL 135 
+ACC 
+1202238E 
+ 157.6 (See ENR 2.1) 
+ENTEG  090 
+005312S 270 Gorontalo APP, 
+1230000E Ujung Pandang  
+ 214.3 
+FIC, 
+TELES  Ujung Pandang 
+005424S ACC 
+1263354E 090 FL 600 
+(See ENR 2.1) 
+ 36.0 
+269 9 000 ft  
+MUDAL  
+005424S Ternate APP, 
+1270948E 090 
+ 133.5 Ujung Pandang 
+270 
+GOBAL   ACC 
+005536S Sorong APP, 
+1292305E 088 FL 600 Ujung Pandang 
+ 114.5 
+268 6 000 ft  ACC 
+“MIL” VOR/DME  (See ENR 2.1) 
+005346.4S  
+1311723.2E 
+ 
+        
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 117 
+        19 MAY 22 
+ENR 3.1 - 24                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+Remarks  
+Route designator Track Lateral cruising  
+DIST Upper Airspace 
+Significant points MAG limits levels Controlling  
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W37      
+ 
+        
+ 
+“BPN” VOR/DME  
+011444.7S  
+Ujung Pandang  
+1165625.1E 
+117.0 FIR, 
+ 
+Balikpapan APP, 
+GAMAL  
+FL 600 Ujung Pandang 
+025150S 145 
+4 000 ft  
+325 APP, 
+1180220E 
+Ujung Pandang 
+ 157.5 
+ACC 
+ 
+“MKS” DVOR/DME  (See ENR 2.1) 
+050216.0S 
+1193134.2E FL 600 
+150.0 
+ 11 500 ft  
+Ujung Pandang 
+NUKPO  120 A, C 10  
+APP, 
+061913S 300 
+Ujung Pandang 
+1214057E 
+84.0 FIC, 
+ 
+LUSIA Ujung Pandang 
+ACC 
+070218S 
+1225332E (See ENR 2.1) 
+119 FL 600  
+155.9 
+ 298 7 000 ft  
+DOVIK  
+082013S 
+1250945E 118 
+25.0 Dili APP 
+ 298 
+“DIL” VOR  
+083236.0S   
+1253142.0E 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 112 
+         27 JAN 22 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 25 
+Direction of  
+ateral cruising  Remarks  
+Route designator Track L
+DIST Upper Airspace 
+limits levels Controlling  
+Significant points MAG 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W38      
+ 
+        
+ 
+“PNK” VOR/DME  
+000445.0S 
+1092229.8E 
+149.9 Jakarta FIR, 
+ 
+Pontianak APP, 
+MASRI 
+196   Jakarta FIC, 
+022915S 
+Jakarta ACC 
+1084004E 
+102.8 (See ENR 2.1) 
+ 
+AMBOY FL 600 
+A, C 10 
+040800S 6 000 ft   
+1081000E 207 
+71.8 
+ 027 
+Jakarta APP, 
+DENDY 
+ Jakarta ACC, 
+051149S 
+(See ENR 2.1) 
+1073624E 216 
+57.0 
+ 036 
+“DKI” VOR/DME  
+055740.3S 
+1070207.9E 
+        
+ 
+ 
+W38W 
+ 
+        
+ 
+“TPN” VOR/DME  
+024328.5S 
+Jakarta FIR, 
+1074511.7E 
+Jakarta APP, 
+ 
+Jakarta ACC 
+ 
+FL 600 (See ENR 2.1) 
+ 163 87.7 A, C 10   
+6 000 ft   
+ 
+ Diversion route 
+ “TPN” to “DKI” 
+AMBOY join to W38 
+040800S    
+1081000E 
+     
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 27 
+Direction of  
+ateral cruising  Remarks  
+Route designator Track L
+DIST Upper Airspace 
+limits levels Controlling  
+Significant points MAG 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W41 
+         
+ 
+“MIL” VOR/DME  
+005346.4S  Sorong APP, 
+1311723.2E 089 FL 600 Ujung Pandang 
+165.9 
+ 268 10 000 ft  ACC 
+“MKW” VOR/DME (See ENR 2.1) 
+005347.3S 
+1340301.3E 095 
+23.5 
+ 275 
+SEGLO  
+005636S Biak APP, 
+1342619E 097 Ujung Pandang 
+100.0 
+ 276 ACC 
+“BIK” VOR/DME (See ENR 2.1) 
+A, C 10  
+011056.9S 
+1360510.1E 106 FL 600 
+118.0 
+ 285 8 500 ft  
+JODRA  
+014639S 
+Ujung Pandang  
+1375732E 105 
+61.5 FIC 
+ 285 
+ (See ENR 2.1) 
+ KUBIA 
+020515S Jayapura APP, 
+1385604E 104 Ujung Pandang 
+99.4 
+ 284 ACC 
+“JPA” VOR/DME  (See ENR 2.1) 
+023442.2S 
+1403100.0E 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 29 
+Direction of  
+eral cruising  Remarks  
+Route designator Track Lat
+DIST Upper Airspace 
+limits levels Controlling  
+Significant points MAG 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W43      
+ 
+        
+ 
+ “SBR” VOR/DME  
+072226.2S  Ujung Pandang  
+1124616.4E 
+FIR, 
+ 
+Surabaya APP, 
+ 97.4 
+Ujung Pandang 
+ 
+101 FL 600 ACC 
+ 
+281 11 000 ft  
+ENTAS (See ENR 2.1) 
+074247S 
+1142213E Bali APP, 
+80.0 
+ Ujung Pandang 
+AGUNG FIC, 
+075929S Ujung Pandang 
+1154104E 105 FL 600 ACC 
+106.3 
+ 285 FL 135 A, C 10  (See ENR 2.1) 
+MUBOT 
+082827S 
+1172417E 112 FL 600 
+186.3 
+ 291 9 500 ft   
+“WGP” VOR/DME Kupang APP, 
+094011.5S Ujung Pandang  
+1201814.5E 098 FL 600 FIC, 
+202.8 
+ 277 6 000 ft  Ujung Pandang 
+“KPG” VOR/DME  ACC 
+101000.3S (See ENR 2.1) 
+1234130.5 E 057 FL 600  
+189.5 
+ 236 11 500 ft  
+BACAU 
+082906S 
+1262400E 
+        DILI APP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+
+
+
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 33 
+Direction of  
+ks  
+Route designator Track Lateral cruising  Remar
+DIST Upper Airspace 
+Significant points MAG limits levels Controlling  
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W51 
+         
+ 
+“GTL” VOR/DME  
+003840.7N  Palu APP, 
+1225053.0E Gorontalo APP, 
+ 32.9 Ujung Pandang 
+ ACC 
+GONTA  072 FL 600 
+A, C 10  (See ENR 2.1) 
+252 10 000 ft  
+004849N Manado APP, 
+1232211E Ujung Pandang 
+100.0 
+ ACC 
+“MWB” VOR/DME  (See ENR 2.1) 
+011923.7N   
+1245717.6E       
+ 
+W52   
+ 
+      
+ 
+“MKS” DVOR/DME  
+050216.0S  
+1193134.2E Ujung Pandang  
+ 150.0 FIR, 
+BIMAK Ujung Pandang 
+258 APP, 
+053134S 078 Ujung Pandang 
+1170404E ACC 
+ 32.0 
+(See ENR 2.1) 
+BIKOD 
+053749S Ujung Pandang 
+1163236E FL 600 FIC, 
+ 261 
+89.4 4 000 ft  Ujung Pandang 
+ 081 ACC 
+AKINO (See ENR 2.1) 
+A, C 10  
+055024S 
+Surabaya APP, 
+1150347E 259 
+ 150.6 
+079 Ujung Pandang 
+SIPUT FIC, 
+061700S Ujung Pandang 
+1123500E 250 ACC 
+ 61.2 
+070 (See ENR 2.1) 
+LASEM   
+063706S Semarang APP, 
+1113654E Surabaya APP, 
+ 253 FL 600 Ujung Pandang 
+ 76.7 
+073 6 500 ft  ACC 
+ (See ENR 2.1 and 
+“ANY” VOR/DME WAHS AD 2.18) 
+065828.9S 
+1102248.4E         
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 34                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+ 
+Route designator Track Lateral cruising  Remarks 
+DIST Upper Airspace ontrolling  
+Significant points MAG limits levels C
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W53      
+ 
+        
+ 
+“MKS” DVOR/DME 
+050216.0S  Ujung Pandang 
+1193134.2E FIR, 
+ Ujung Pandang 
+FL 600 
+ 150.0 APP, 
+8 500 ft  Ujung Pandang 
+ ACC 
+SUGTA (See ENR 2.1) 
+043844S Kendari APP, 
+080 
+1215959E Ujung Pandang 
+260 86.0 
+ ACC 
+HIPNO (See ENR 2.1) 
+FL 600 
+042514S Ujung Pandang  
+11 000ft  
+1232504E FIC, 
+ 182.0 Ujung Pandang 
+ ACC 
+HOLBA  (See ENR 2.1) 
+035640S 
+1262458E 079 FL 600 
+ 108.0 
+258 7 000 ft  Ambon APP, 
+“AMN” VOR/DME Ujung Pandang 
+033653.7S ACC 
+1281109.8E A, C 10  (See ENR 2.1) 
+ 100.0 
+ATOMY 
+030750S 
+1294653E FL 600 
+ 64.0 Ujung Pandang 
+12 000 ft  FIC, 
+RUSUX 072 Ujung Pandang 
+024902S 252 ACC 
+1304804E 
+ 113.0 (See ENR 2.1) 
+JOLAM   
+021603S 
+1323606E 
+ 30.0 
+HELIT 
+020718S Biak APP, 
+1330446E 072 FL 600 Ujung Pandang 
+ 90.0 
+251 9 000 ft   ACC 
+ONTAL (See ENR 2.1) 
+014102S 
+1343046E 071 
+ 99.2 
+250 
+“BIK” VOR/DME 
+011056.9S 
+1360510.1E         
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 35 
+Direction of  
+rks  
+Route designator Track Lateral cruising  Rema
+DIST Upper Airspace 
+Significant points MAG limits levels Controlling  
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W54      
+ 
+         
+“MKS” VOR/DME  
+050216.0S  Ujung Pandang FIR, 
+1193134.2E Ujung Pandang APP, 
+ 150.0 
+ Ujung Pandang ACC 
+071 
+LEKEX (See ENR 2.1) 
+251 
+041537S 
+1215425E 
+ 34.5 
+“KDI” VOR/DME 
+040432.6S Kendari APP,  
+FL 600 
+1222710.2E Ujung Pandang FIC, 
+ 42.0 7 500 ft  
+Ujung Pandang ACC 
+RALTO 085 (See ENR 2.1) 
+040119S 265 
+1230905E 
+ 204.0 
+SULIS 
+034538S 
+1263235E 084 
+98.9 
+ 264 Ambon APP, 
+“AMN” VOR/DME 
+Ujung Pandang ACC 
+033653.7S 
+A, C 10  (See ENR 2.1) 
+1281109.8E 112 
+ 100.0 
+292 
+GOMBY 
+041644S 
+1294301E 114 
+ 121.6 
+293 
+TARIV 
+050756S 
+1313335E 113 
+ 54.7 
+293 
+FOLOT FL 600 
+053100S 5 000 ft Ujung Pandang FIC, 
+1322324E 110 
+ 21.3 Ujung Pandang ACC 
+290 
+LEBON (See ENR 2.1) 
+053900S 
+1324312E 109 
+ 145.4 
+288 
+LALOV 
+063000S 
+1350000E 107 
+ 112.3 
+287 
+EROSY 
+070818S 
+1364612E 
+         
+CONT 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 122 
+        03 NOV 22 
+ENR 3.1 - 36                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+ 
+Route designator Track Lateral cruising  Remarks 
+DIST Upper Airspace ontrolling  
+Significant points MAG limits levels C
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W54 
+         
+ 
+EROSY  
+070818S  Ujung Pandang 
+1364612E  FIC, 
+ 78.3 Ujung Pandang 
+ ACC 
+JOLIA 108 FL 600 
+A, C 10  (See ENR 2.1) 
+287 5 000 ft  
+073600S Merauke APP, 
+1380000E Ujung Pandang 
+154.0 
+ ACC 
+“MKE” VOR/DME (See ENR 2.1) 
+083121.4S   
+1402501.6E 
+      
+ 
+ 
+W55   
+ 
+      
+ 
+“MWB” VOR/DME 
+011923.7N  
+1245717.6E FL 600 Ujung Pandang 
+100.0 
+ 8 500 ft   FIR, 
+RUMBO 145 Manado APP, 
+000326S 325 Ujung Pandang 
+1255349E ACC 
+59.5 
+ (See ENR 2.1) 
+IDAMI 
+005245S  Ujung Pandang 
+1262729E FIC, 
+ 147 
+95.0 A, C 10 Ujung Pandang 
+ 327 
+ACC 
+BELBA FL 600 
+(See ENR 2.1) 
+7 500 ft   
+021325S 
+1271812E 147 
+98.5 
+ 326 Ambon APP, 
+“AMN” VOR/DME Ujung Pandang 
+033653.7S  ACC 
+1281109.8E 193  (See ENR 2.1) 
+100.0 
+ 013 
+BUBTU 
+051418S   
+1274633E 
+      
+ 
+CONT 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 37 
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace olling  
+Significant points MAG limits levels Contr
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W55 
+         
+ 
+BUBTU  
+051418S  Ujung Pandang 
+1274633E FIC, 
+202 
+ 183.0 Ujung Pandang 
+022 
+ FL 600 ACC 
+VALGO A, C 10  
+7 500 ft  (See ENR 2.1) 
+080336S 
+1263450E 201 
+ 27.6 Dili APP 
+021 
+BACAU 
+082906S   
+1262400E 
+       
+ 
+W61 
+ 
+         
+“BIK” VOR/DME 
+011056.9S  Ujung Pandang 
+1360510.1E FIR, 
+ Biak APP, 
+ 100.2 
+ Ujung Pandang 
+ 282 ACC 
+FILMO 102 (See ENR 2.1) 
+FL 600 
+004712S 
+11 000 ft   
+1342800E P, 
+ 192.0 Sorong AP
+Ujung Pandang 
+FASAL 
+ACC 
+000230S 
+(See ENR 2.1) 
+1312136E 
+ 134.7  
+A, C 10  
+FATOL 283 
+002900N 103 
+1291048E 
+ 48.6 Ternate APP, 
+FORMY Ujung Pandang 
+004018N ACC 
+1282336E FL 600 
+110.3 (See ENR 2.1) 
+ 8 000 ft   
+HALMO 280 
+010053N 101 Manado APP, 
+1263526E Ujung Pandang 
+ 100.0 ACC 
+“MWB” VOR/DME (See ENR 2.1) 
+011923.7N 
+1245717.6E         
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 107 
+       12 AUG 21 
+ENR 3.1 - 38                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+  
+Route designator Track Lateral cruising  Remarks
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W62  
+ 
+        
+ 
+“BIK” VOR/DME 
+011056.9S  Ujung Pandang  
+1360510.1E FIR, 
+ 133 FL 600 Biak APP, 
+ 100.0 
+313 7 000 ft  Ujung Pandang 
+ ACC 
+LINLU (See ENR 2.1) 
+022229S 
+A, C 10  
+1371518E 133 FL 600 Ujung Pandang 
+145.1 
+ 312 14 000 ft  FIC, 
+“ZW” NDB Merauke APP, 
+040601.7S Ujung Pandang 
+1385723.3E 159 FL 600 ACC 
+278.1 
+ 338 16 000 ft (See ENR 2.1) 
+“MKE” VOR/DME  
+083121.4S 
+1402501.6E         
+W63 
+ 
+        
+ 
+“BIK” VOR/DME 
+011056.9S  Ujung Pandang  
+1360510.1E FIR, 
+ 165 FL 600 Biak APP, 
+ 100.0 
+ 345 16 000 ft   Ujung Pandang 
+ ACC 
+IBOGO (See ENR 2.1) 
+024846S 
+1362802E 164 FL 600 Timika APP,  
+ 104.5 
+344 17 000 ft   Ujung Pandang 
+“TMK” VOR/DME FIC, 
+A,  C 10  
+043101.7S Ujung Pandang 
+1365202.0E 137 ACC 
+ 101.0 
+317 (See ENR 2.1) 
+UBDUT 
+054832S FL 600 Merauke APP, 
+1375723E 4 000 ft  Ujung Pandang 
+ 135 FIC, 
+ 218.6 
+ 314 Ujung Pandang 
+ ACC 
+“MKE” VOR/DME  (See ENR 2.1) 
+083121.4S 
+1402501.6E         
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 112 
+        27 JAN 22 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 39 
+Direction of  
+rks  
+Route designator Track Lateral cruising  Rema
+DIST Upper Airspace 
+Significant points MAG limits levels Controlling  
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W64  
+ 
+        
+ 
+“BIK” VOR/DME 
+011056.9S  
+g Pandang 
+1360510.1E FL 600 Ujun
+ 100.0 
+5 000 ft  FIR, 
+NOBBY 193 Biak APP, 
+ 
+024754S 013 Ujung Pandang 
+1353854E FL 600 ACC 
+ 35.2 
+4 000 ft (See ENR 2.1) 
+BUNKU A, C 10 
+032206S  Timika APP, 
+1352957E Ujung Pandang 
+ 128 FL 600 FIC, 
+ 106.9  
+307 14 000 ft Ujung Pandang 
+ ACC 
+“TMK” VOR/DME (See ENR 2.1) 
+043101.7S 
+1365202.0E 
+        
+W65 
+ 
+        
+ 
+“BIK” VOR/DME  
+011056.9S  Ujung Pandang 
+1360510.1E FIR, 
+ 222 100.2 Biak APP, 
+ 042  Ujung Pandang 
+ FL 600 ACC 
+PEBDA 9 500 ft   (See ENR 2.1) 
+022356S 
+1345617E 223 
+ 105.3 Ujung Pandang 
+043 FIC, 
+“KMN” VOR/DME 
+Ujung Pandang 
+033831.1S 
+1334140.5E 267 A, C 10  ACC 
+ 100.5 
+088 (See ENR 2.1) 
+IRSON 
+033933S Ujung Pandang 
+1320112E 269 FIC, 
+FL 600 jung Pandang 
+ 130.0 U
+089 6 000 ft    ACC 
+SOBIA (See ENR 2.1) 
+033803S Ambon APP, 
+1295111E 269  Ujung Pandang 
+ 100.0 
+090 ACC 
+“AMN” VOR/DME (See ENR 2.1) 
+033653.7S   
+1281109.8E         
+  
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 112 
+        27 JAN 22 
+ENR 3.1 - 40                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+  
+Route designator Track Lateral cruising  Remarks
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W66      
+ 
+        
+ 
+“JPA”VOR/DME  
+023442.2S   
+1403100.0E Ujung Pandang FIR 
+ Jayapura APP 
+ 100.6 Ujung Pandang ACC 
+(See ENR 2.1) 
+ FL 600 
+175 
+IDINA 14 500 ft   
+355 
+ 
+041544S 
+1403358E 
+34.8 
+ 
+A, C 10 Ujung Pandang 
+“ZX” NDB  FIC, 
+045042.0S  Ujung Pandang ACC 
+FL 600 
+1403442.0E 190  (See ENR 2.1) 
+77.9 13 000 ft   
+ 010 
+UPNUM   
+060642S  
+FL 600 
+1401600E Jayapura APP, 
+173 
+144.2 4 000 ft   Ujung Pandang ACC 
+ 352 
+ (See ENR 2.1) 
+“MKE” VOR/DME  
+083121.4S 
+1402501.6E 
+        
+W67 
+ 
+        
+ 
+“JPA” VOR/DME  
+023442.2S  
+1403100.0E Ujung Pandang  
+FIR, 
+ 
+99.8 Jayapura APP, 
+ Ujung Pandang ACC 
+ FL 600 (See ENR 2.1) 
+MALIO  223 
+15 000 ft   
+043 
+034447S  
+1391933E A, C 10  
+30.6 
+ Ujung Pandang  
+“ZW” NDB  FIC, 
+Timika APP, 
+040601.7S Ujung Pandang ACC 
+1385723.3E 256 FL 600 
+127.7 (SeeENR 2.1) 
+ 076 17 000 ft   
+“TMK” VOR/DME  
+ 043101.7S  
+1365202.0E  
+         
+CONT  
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 117 
+        19 MAY 22 
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 41 
+Direction of  
+cruising  Remarks  
+Route designator Track Lateral 
+DIST Upper Airspace levels Controlling  
+Significant points MAG limits 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W67 
+         
+ 
+“TMK” VOR/DME  
+043101.7S  
+1365202.0E 283 FL 600 
+ 197.3 Timika APP, 
+104 13 000 ft   Ujung Pandang, 
+“KMN” VOR/DME 
+FIC, 
+033831.1S 
+319 Ujung Pandang ACC 
+1334140.5E 
+ 105.1 
+140 (See ENR 2.1) 
+JOLAM  
+021603S 
+1323606E 315 FL 600 
+ 113.6 
+135 5 000 ft  Sorong APP, 
+“MIL” VOR/DME  
+Ujung Pandang ACC 
+005346.4S A, C 10  (See ENR 2.1) 
+1311723.2E 
+ 135.5 
+FIMBA  
+000825S 
+1290954E Ternate APP, 
+ 288 167.7 Ujung Pandang ACC 
+ 109 (See ENR 2.1) 
+SOSOK  FL 600 
+004636N 8 500 ft  
+1263140E Manado APP, 
+ 100.0 Ujung Pandang ACC 
+“MWB” VOR/DME (See ENR 2.1) 
+011923.7N 
+1245717.6E 
+        
+ 
+ 
+W68 
+ 
+        
+ 
+“JPA” VOR/DME 
+023442.2S  
+1403100.0E   
+ Ujung Pandang 
+ 237 FL 600 FIR, 
+99.7 A, C 10  
+ 057 16 500 ft  Jayapura APP, 
+Ujung Pandang 
+ ACC 
+ANLEP  (See ENR 2.1) 
+032441S 
+1390434E 
+        
+ 
+CONT 
+Directorate General of Civil Aviation                      AAIIRRAACC  AAIIPP  AAMMDDTT  111207  
+        0243  NMOAVR  2213   
+ENR 3.1 - 42                                                                           AIP INDONESIA (VOL I)                                                                
+Direction of  
+Route designator Track Lateral cruising  Remarks  
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+ CONT     
+W68 
+         
+ANLEP  
+032441S  
+1390434E 
+ 73.0 Ujung Pandang 
+FIC,  
+OVGOD  241 FL 600 Timika APP,  
+035724S 061 16 500 ft  Ujung Pandang 
+1375913E ACC 
+ 75.0 (See ENR 2.1) 
+“TMK” VOR/DME  
+043101.7S Timika APP, 
+1365202.0E Ujung Pandang 
+ 273 FL 600 FIC, 
+251.2 
+ 094 10 000 ft A, C 10  Ujung Pandang 
+ ACC 
+KIKOS (See ENR 2.1) 
+040502S Ujung Pandang 
+1324154E FIC, 
+274 
+ 172.1 Ujung Pandang 
+ 095 ACC 
+HANTA FL 600 (See ENR 2.1) 
+034714S 4 500 ft  Ambon APP, 
+1295038E 275 Ujung Pandang 
+ 100.0 
+095 ACC 
+“AMN” VOR/DME  (See ENR 2.1) 
+033653.7S 
+1281109.8E         
+W69 
+         
+“NMA” VOR/DME  
+083202.9S  Ujung Pandang FIR 
+1184129.6E Ujung Pandang FIC 
+077 FL 600 
+ 433.8 Ujung Pandang 
+256 6 500 ft  
+ ACC 
+UNSEP (See ENR 2.1) 
+065739S Ujung Pandang FIC 
+1254808E 077 A, C 10  Ujung Pandang 
+ 403.0 
+255 ACC 
+FOLOT (See ENR 2.1) 
+FL 600 
+053100S Ujung Pandang FIC 
+5 000 ft  
+1322324E Timika APP, 
+076 
+ 274.7 Ujung Pandang 
+ 255 ACC 
+“TMK” VOR/DME  (See ENR 2.1) 
+043101.7S 
+1365202.0E         
+Directorate General of Civil Aviation                      AIIRAC  AIIP  AMDT  1217  
+        2139  MARY  232   
+AIP INDONESIA (VOL I)                                                             ENR 3.1 - 43 
+Direction of  
+cruising  Remarks  
+Route designator Track Lateral 
+DIST Upper Airspace Controlling  
+Significant points MAG limits levels 
+(NM) Lower  classification unit 
+Coordinates (°) (NM) 
+odd even Frequency  
+1 2 3 4 5 6 
+W71      
+         
+ 
+“KMN” VOR/DME 
+033831.1S  
+1334140.5E  080 FL 600 
+109.5 
+ 259 8 000 ft  
+BUNKU Ujung Pandang 
+032206S FIC, 
+1352957E 079 Ujung Pandang 
+204.6 A, C 10  
+ 258 ACC, 
+LAVAR FL 600 Jayapura APP 
+025018S 11 500 ft  (See ENR 2.1) 
+1385159E 078 
+100.3 
+ 258 
+ “JPA” VOR/DME 
+023442.2S 
+1403100.0E         
+ 
+ 
+Directorate General of Civil Aviation                      AIRAC AIP AMDT 122 
+        03 NOV 22 

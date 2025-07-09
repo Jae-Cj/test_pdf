@@ -1,0 +1,23 @@
+
+e
+java:S11923"HDefine a constant instead of duplicating this literal " Image " 5 times.(ü×Çà8Àäğ¦î1
+c
+java:S11923"FDefine a constant instead of duplicating this literal "Page " 5 times.(ü×Çà8Àäğ¦î1
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ì‰íS8ƒåğ¦î1
+G	java:S1063"+Replace this use of System.out by a logger.(ü×Çà8‡åğ¦î1
+G	java:S106@"+Replace this use of System.out by a logger.(úŸ¯8‡åğ¦î1
+L	java:S106A"+Replace this use of System.out by a logger.(áèñ‹ûÿÿÿÿ8‡åğ¦î1
+L	java:S106B"+Replace this use of System.out by a logger.(»ü©øÿÿÿÿ8‡åğ¦î1
+L	java:S106C"+Replace this use of System.out by a logger.(ƒ»™±úÿÿÿÿ8ˆåğ¦î1
+L	java:S106T"+Replace this use of System.out by a logger.(¢÷ãùÿÿÿÿ8ˆåğ¦î1
+U
+java:S1854|"8Remove this useless assignment to local variable "page".(Óİ¶ó8Šåğ¦î1
+c
+java:S1075u"ARefactor your code to get this URI from a customizable parameter.(Ò›œƒÿÿÿÿÿ8‹åğ¦î1
+X	java:S125{"<This block of commented-out lines of code should be removed.(Š‡±°8åğ¦î1
+F
+java:S1481|")Remove this unused "page" local variable.(Óİ¶ó8åğ¦î1
+^	java:S125’"<This block of commented-out lines of code should be removed.(“«š¿úÿÿÿÿ8åğ¦î1
+M	java:S106›"+Replace this use of System.out by a logger.(£ç”Âşÿÿÿÿ8õ¢ù¦î1
+Y	java:S125²"<This block of commented-out lines of code should be removed.(Ë±Ì–8ÊÄŒ§î1

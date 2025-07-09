@@ -1,0 +1,14 @@
+
+W
+java:S3416":Update this logger to use "PdfImageExtractorDBTest.class".(—˜¾Ÿ8ØüÊäë1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—˜¾Ÿ8ÛüÊäë1
+X
+java:S6437 "6Revoke and change this password, as it is compromised.(¤îºäúÿÿÿÿ8İüÊäë1
+]	java:S125&"<This block of commented-out lines of code should be removed.(–“¤Åıÿÿÿÿ8ÀüÕäë1
+]
+java:S1075+"ARefactor your code to get this URI from a customizable parameter.(®ÚÄT8àüÊäë1
+G	java:S106?"+Replace this use of System.out by a logger.(é¬8Ç…Ñäë1
+G	java:S106@"+Replace this use of System.out by a logger.(ÃŸÿŸ8½ëÑäë1
+G
+java:S1068"*Remove this unused "LOGGER" private field.(—˜¾Ÿ8åüÊäë1

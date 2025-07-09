@@ -1,0 +1,28 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8ù›¥ğ1
+]	java:S125"<This block of commented-out lines of code should be removed.(›ÍÖ¦ûÿÿÿÿ8ÑÇ§í¡2
+X	java:S125"<This block of commented-out lines of code should be removed.(‘·½Ñ8Õø§¥ğ1
+G	java:S106$"+Replace this use of System.out by a logger.(Ô©ı8³Ø´ñğ1
+j
+java:S53615"HReplace this call to "replaceAll()" by a call to the "replace()" method.(áœÇÓÿÿÿÿÿ8ˆ¸­¥ğ1
+j
+java:S5361>"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ò‡Áøÿÿÿÿ8‰¸­¥ğ1
+j
+java:S5361?"HReplace this call to "replaceAll()" by a call to the "replace()" method.(áŠ¡Øÿÿÿÿÿ8Š¸­¥ğ1
+e
+java:S5361@"HReplace this call to "replaceAll()" by a call to the "replace()" method.(…ÎÅ¦8Š¸­¥ğ1
+j
+java:S5361A"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ì«é™üÿÿÿÿ8‹¸­¥ğ1
+j
+java:S5361B"HReplace this call to "replaceAll()" by a call to the "replace()" method.(±şÑÖùÿÿÿÿ8‹¸­¥ğ1
+j
+java:S5361C"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‹ÍŸ×ùÿÿÿÿ8‹¸­¥ğ1
+e
+java:S5361D"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¯±ô²8Œ¸­¥ğ1
+e
+java:S5361D"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¯±ô²8Œ¸­¥ğ1
+e
+java:S5361E"HReplace this call to "replaceAll()" by a call to the "replace()" method.(øíİ¯8Œ¸­¥ğ1
+j
+java:S5361F"HReplace this call to "replaceAll()" by a call to the "replace()" method.(§ï€ûÿÿÿÿ8¸­¥ğ1

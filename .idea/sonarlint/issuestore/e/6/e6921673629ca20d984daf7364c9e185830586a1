@@ -1,0 +1,22 @@
+
+a
+java:S25830"DChange this condition so that it does not always evaluate to "false"(ÆãÏò8úº´¹ì1
+w
+java:S4144‚"ZUpdate this method so that its implementation is not identical to "isUpArrow" on line 116.(šÖ­38Şì¿¸ì1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ÿ­§8ÒèÒ¸ì1
+F	java:S1061"+Replace this use of System.out by a logger.(Éæ§98ˆİ’¸ì1
+L	java:S1066"+Replace this use of System.out by a logger.(áŸ†Òûÿÿÿÿ8‰İ’¸ì1
+L	java:S106;"+Replace this use of System.out by a logger.(€Êšòúÿÿÿÿ8‰İ’¸ì1
+L	java:S106@"+Replace this use of System.out by a logger.(š°Èôıÿÿÿÿ8‰İ’¸ì1
+V
+java:S3400`"9Remove this method and declare a constant for this value.(¡‡¬8ã¯Ñ¸ì1
+P
+java:S1172F".Remove this unused method parameter "contour".(šãŒæıÿÿÿÿ8ä¯Ñ¸ì1
+X	java:S125H"<This block of commented-out lines of code should be removed.(Ş¸–Å8ä¯Ñ¸ì1
+^
+java:S1126l"AReplace this if-then-else statement by a single return statement.(û¹¡ò8çì¿¸ì1
+^
+java:S1126z"AReplace this if-then-else statement by a single return statement.(ÌÙƒ½8èì¿¸ì1
+_
+java:S1126ˆ"AReplace this if-then-else statement by a single return statement.(ÌÙƒ½8èì¿¸ì1

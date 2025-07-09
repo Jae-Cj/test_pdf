@@ -1,0 +1,10 @@
+
+k
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ú±¥ºøÿÿÿÿ8œì÷î1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ö¶™ƒ8¬“í÷î1
+N
+java:S1481",Remove this unused "pdfText" local variable.(éËİºüÿÿÿÿ8ÒĞë÷î1
+G	java:S1066"+Replace this use of System.out by a logger.(ùóşŞ8ÔĞë÷î1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÕĞë÷î1

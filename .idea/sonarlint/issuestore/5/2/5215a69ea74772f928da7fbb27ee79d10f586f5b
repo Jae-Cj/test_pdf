@@ -1,0 +1,13 @@
+
+`
+java:S25837"CChange this condition so that it does not always evaluate to "true"(¹µï³8£·Ä·ì1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(—á¹Ü8±ì–·ì1
+L	java:S106I"+Replace this use of System.out by a logger.(ú—Éãüÿÿÿÿ8·ì–·ì1
+U
+java:S3400`"9Remove this method and declare a constant for this value.(ó²Ó.8¬·Ä·ì1
+P
+java:S1172N".Remove this unused method parameter "contour".(–ÞƒÊþÿÿÿÿ8­·Ä·ì1
+X	java:S125P"<This block of commented-out lines of code should be removed.(þ­Ú8­·Ä·ì1
+^
+java:S1126p"AReplace this if-then-else statement by a single return statement.(¯û¦Ï8ð“—·ì1

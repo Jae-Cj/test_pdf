@@ -1,0 +1,15 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(É‰ÎÌ8ˆŠÑ×ì1
+o
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(­ªúª8ü†¬Ùì1
+^
+java:S1075*"ARefactor your code to get this URI from a customizable parameter.(Šª¨ö8ÈÈÁİì1
+L	java:S1060"+Replace this use of System.out by a logger.(æ­¹½şÿÿÿÿ8Üİ¢Öì1
+L	java:S1063"+Replace this use of System.out by a logger.(©Êõ®üÿÿÿÿ8Æ›Ã×ì1
+L	java:S1066"+Replace this use of System.out by a logger.(·–à†ÿÿÿÿÿ8ÊúÃ×ì1
+G	java:S106O"+Replace this use of System.out by a logger.(…„ ¯8¼ƒ¨Ùì1
+G	java:S106c"+Replace this use of System.out by a logger.(‡º²½8¼ƒ¨Ùì1
+L	java:S106x"+Replace this use of System.out by a logger.(ü½¬‰üÿÿÿÿ8ƒ‡¬Ùì1
+L	java:S106|"+Replace this use of System.out by a logger.(šÆÊıÿÿÿÿ8ƒ‡¬Ùì1
+\
+java:S1144[":Remove this unused private "projectionVerticality" method.(É„Âøÿÿÿÿ8ŠÑ×ì1

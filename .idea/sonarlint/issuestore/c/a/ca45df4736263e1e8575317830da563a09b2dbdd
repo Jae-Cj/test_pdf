@@ -1,0 +1,11 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "pageWidth".(«°£üÿÿÿÿ8Ş•š‹ì1
+[
+java:S1854">Remove this useless assignment to local variable "pageHeight".(›âÂ¨8Ş•š‹ì1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¸Äöê8Şš‹ì1
+P
+java:S1481".Remove this unused "pageWidth" local variable.(«°£üÿÿÿÿ8á•š‹ì1
+L
+java:S1481"/Remove this unused "pageHeight" local variable.(›âÂ¨8á•š‹ì1

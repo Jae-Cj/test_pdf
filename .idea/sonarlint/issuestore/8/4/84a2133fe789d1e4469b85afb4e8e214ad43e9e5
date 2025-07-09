@@ -1,0 +1,12 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ò¨Œùÿÿÿÿ8Ö”øØì1
+U
+java:S1854 "8Remove this useless assignment to local variable "page".(Óİ¶ó8×”øØì1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(œ“À¹ûÿÿÿÿ8Ú”øØì1
+F
+java:S1481 ")Remove this unused "page" local variable.(Óİ¶ó8Ü”øØì1
+L	java:S106%"+Replace this use of System.out by a logger.(äò¯øÿÿÿÿ8İ”øØì1
+L
+java:S1068"*Remove this unused "logger" private field.(ò¨Œùÿÿÿÿ8Ş”øØì1

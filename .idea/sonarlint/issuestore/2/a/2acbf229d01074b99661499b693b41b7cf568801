@@ -1,0 +1,17 @@
+
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(òşÃ”øÿÿÿÿ8Û†„£ï1
+L	java:S106%"+Replace this use of System.out by a logger.(êÚ°«ùÿÿÿÿ8à†„£ï1
+G	java:S106("+Replace this use of System.out by a logger.(Ô¾ª8à†„£ï1
+G	java:S106*"+Replace this use of System.out by a logger.(õ± 8á†„£ï1
+L	java:S106."+Replace this use of System.out by a logger.(Öùá¡şÿÿÿÿ8ä†„£ï1
+G	java:S1063"+Replace this use of System.out by a logger.(±¡œÀ8Á¤£ï1
+G	java:S1065"+Replace this use of System.out by a logger.(şÆë‘8‡É©£ï1
+X	java:S1259"<This block of commented-out lines of code should be removed.(À£ØÌ8á†„£ï1
+c
+java:S1075M"ARefactor your code to get this URI from a customizable parameter.(ŞöæÄøÿÿÿÿ8ã†„£ï1
+d
+java:S3252N"HUse static access with "com.alibaba.excel.EasyExcelFactory" for "write".(—’8ã†„£ï1
+L	java:S106T"+Replace this use of System.out by a logger.(¢÷ãùÿÿÿÿ8ŠÊŸ§ï1
+d
+java:S5361b"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ì³İ%8ÏÙ¡£ï1

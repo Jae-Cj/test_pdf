@@ -1,0 +1,9 @@
+
+b	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(¼—­İ8†‡ø–ñ1
+^
+java:S1854""BRemove this useless assignment to local variable "modifiedString".(ş¨)8´ÿ‚—ñ1
+X	java:S125"<This block of commented-out lines of code should be removed.(‘·½Ñ8ÿ¤²–ñ1
+L	java:S106"+Replace this use of System.out by a logger.(… ıĞùÿÿÿÿ8õâ‚—ñ1
+O
+java:S1481""3Remove this unused "modifiedString" local variable.(ş¨)8¹ÿ‚—ñ1
+X	java:S125#"<This block of commented-out lines of code should be removed.(·ÿˆä8ˆ¾—ñ1
